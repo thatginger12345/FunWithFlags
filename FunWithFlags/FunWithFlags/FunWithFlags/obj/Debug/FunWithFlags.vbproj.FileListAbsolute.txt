@@ -1,0 +1,12 @@
+E:\Teaching Notes\Unit4-Programming\FunWithFlags\FunWithFlags\bin\Debug\FunWithFlags.exe.config
+E:\Teaching Notes\Unit4-Programming\FunWithFlags\FunWithFlags\bin\Debug\FunWithFlags.exe
+E:\Teaching Notes\Unit4-Programming\FunWithFlags\FunWithFlags\bin\Debug\FunWithFlags.pdb
+E:\Teaching Notes\Unit4-Programming\FunWithFlags\FunWithFlags\bin\Debug\FunWithFlags.xml
+E:\Teaching Notes\Unit4-Programming\FunWithFlags\FunWithFlags\obj\Debug\FunWithFlags.vbprojAssemblyReference.cache
+E:\Teaching Notes\Unit4-Programming\FunWithFlags\FunWithFlags\obj\Debug\FunWithFlags.Form1.resources
+E:\Teaching Notes\Unit4-Programming\FunWithFlags\FunWithFlags\obj\Debug\FunWithFlags.Resources.resources
+E:\Teaching Notes\Unit4-Programming\FunWithFlags\FunWithFlags\obj\Debug\FunWithFlags.vbproj.GenerateResource.cache
+E:\Teaching Notes\Unit4-Programming\FunWithFlags\FunWithFlags\obj\Debug\FunWithFlags.vbproj.CoreCompileInputs.cache
+E:\Teaching Notes\Unit4-Programming\FunWithFlags\FunWithFlags\obj\Debug\FunWithFlags.exe
+E:\Teaching Notes\Unit4-Programming\FunWithFlags\FunWithFlags\obj\Debug\FunWithFlags.xml
+E:\Teaching Notes\Unit4-Programming\FunWithFlags\FunWithFlags\obj\Debug\FunWithFlags.pdb
